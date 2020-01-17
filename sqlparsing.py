@@ -35,7 +35,7 @@ def parseCreateTable (request) :
 
     createTableStatement = Forward().setName("Create Table statement")
     table_name = Word (alphas, alphanums)
-
+    
     wth = "(" + ZeroOrMore(CharsNotIn(")")) + ")"
     field_def = OneOrMore (Word (alphas, alphanums) | wth)
 

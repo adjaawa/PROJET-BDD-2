@@ -1,0 +1,132 @@
+{
+    "students": {
+        "1": {
+            "first_name": "Rigou Riigou",
+            "gender": "Feminin",
+            "last_name": "THIAM",
+            "marital_status": "Marie"
+        },
+        "2": {
+            "first_name": "Peindalizo",
+            "gender": "Feminin",
+            "last_name": "FALL",
+            "marital_status": "Marie"
+        },
+        "3": {
+            "first_name": "The Dean",
+            "gender": "Masculin",
+            "last_name": "NDOYE",
+            "marital_status": "Celibataire"
+        },
+        "4": {
+            "first_name": "daro",
+            "gender": "femimin",
+            "last_name": "thiam",
+            "marital_status": "marie"
+        },
+        "5": {
+            "first_name": "mouhamed",
+            "gender": "masculin",
+            "last_name": "thiam",
+            "marital_status": "celib"
+        },
+        "6": {
+            "first_name": "inconnu",
+            "gender": "Null",
+            "last_name": "inconnu",
+            "marital_status": "Null"
+        },
+        "7": {
+            "first_name": "one",
+            "gender": "Null",
+            "last_name": "another",
+            "marital_status": "Null"
+        },
+        "8": {
+            "first_name": "adja",
+            "gender": "Null",
+            "last_name": "traore",
+            "marital_status": "Null"
+        },
+        "9": {
+            "first_name": "Demba",
+            "gender": "M",
+            "last_name": "FALL",
+            "marital_status": "Celib"
+        },
+        "10": {
+            "first_name": "Abdou",
+            "gender": "M",
+            "last_name": "SECK",
+            "marital_status": "Celibataire"
+        },
+        "11": {
+            "first_name": "Lahat",
+            "gender": "M",
+            "last_name": "Diop",
+            "marital_status": "Marie"
+        }
+    },
+    "users": {
+        "1": {
+            "id": null,
+            "prenom": null,
+            "nom": null
+        },
+        "2": {
+            "id": "1",
+            "prenom": "mo",
+            "nom": "diop"
+        },
+        "3": {
+            "id": "1",
+            "prenom": "ibou",
+            "nom": "fall"
+        }
+    },
+    "momo": {
+        "1": {
+            "id": null,
+            "prenom": null,
+            "nom": null
+        },
+        "2": {
+            "id": "1",
+            "prenom": "mo",
+            "nom": "diop"
+        },
+        "3": {
+            "id": "1",
+            "prenom": "mo",
+            "nom": "diop"
+        }
+    },
+    "teachers": {
+        "1": {
+            "id": null,
+            "prenom": null,
+            "nom": null,
+            "matricule": null
+        },
+        "2": {
+            "id": "1",
+            "prenom": "ibrahima",
+            "nom": "FALL",
+            "matricule": "HDGF"
+        }
+    },
+    "alumni": {
+        "1": {
+            "id": null,
+            "prenom": null,
+            "nom": null,
+            "matricule": null
+        },
+        "2": {
+            "id": "1",
+            "prenom": "Chichi",
+            "nom": "Diop",
+            "matricule": "SDJD"
+        }
+    }
+}

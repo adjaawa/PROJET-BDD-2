@@ -39,6 +39,24 @@ def insertion_data(table_name):
 
     return data
 
+@app.route('/table', methods = ['POST'])
+def create_table () :
+
+    with open ('schools.json', 'r+') as f:
+
+        try:
+            db = json.load(f)
+        except :
+            db = {}
+
+       
+        db = request.get_json()
+        json.dump (db, f, indent = 4)
+        f.truncate ()
+        f.close()
+
+    return "Table created !"
+
 
 
 if __name__ == '__main__':
